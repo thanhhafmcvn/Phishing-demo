@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "Bitte geben Sie vollständige Informationen an.",
+        "alert2": "Erfolgreich eingeloggt.",
+        "connectAndShare": "Auf Facebook bleibst du mit Menschen in Verbindung und teilst Fotos, Videos und vieles mehr mit ihnen.",
+        "inputPlaceholder": {
+            "emailAndPhone": "E-Mail-Adresse oder Telefonnummer",
+            "password": "Passwort"
+        },
+        "signin": "Anmelden",
+        "forgotPassword": "Passwort vergessen?",
+        "createAccount": "Neues Konto erstellen",
+        "createPage": "Erstelle eine Seite",
+        "createPageText": " für einen Star, eine Marke oder ein Unternehmen."
+    },
+    "footer": {
+        "signUp": "Registrieren",
+        "signIn": "Anmelden",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "Orte",
+        "games": "Spiele",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Meta Store",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "Spendenaktionen",
+        "service": "Services",
+        "vic": "Wahl-Informationszentrum",
+        "privacyPolicy": "Datenschutzrichtlinie",
+        "privacyCentre": "Privacy Center",
+        "groups": "Gruppen",
+        "about": "Info",
+        "createAd": "Werbeanzeige erstellen",
+        "createPage": "Seite erstellen",
+        "developer": "Entwickler",
+        "career": "Karriere",
+        "cookie": "Cookies",
+        "adChoice": "Werbepräferenzen",
+        "terms": "Nutzungsbedingungen",
+        "help": "Hilfe",
+        "contactUploadingNonUsers": "Hochladen von Kontakten und Nicht-Nutzer"
+    }
+}

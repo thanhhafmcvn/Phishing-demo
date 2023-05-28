@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "완전한 정보를 제공하십시오.",
+        "alert2": "성공적으로 연결되었습니다.",
+        "connectAndShare": "Facebook에서 전세계에 있는 친구, 가족, 지인들과 함께 이야기를 나눠보세요.",
+        "inputPlaceholder": {
+            "emailAndPhone": "이메일 또는 전화번호",
+            "password": "비밀번호"
+        },
+        "signin": "로그인",
+        "forgotPassword": "비밀번호를 잊으셨나요?",
+        "createAccount": "새 계정 만들기",
+        "createPage": "",
+        "createPageText": "유명인, 브랜드 또는 비즈니스를 위한 페이지 만들기."
+    },
+    "footer": {
+        "signUp": "가입하기",
+        "signIn": "로그인",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "장소",
+        "games": "게임",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Meta 스토어",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "기부 캠페인",
+        "service": "서비스",
+        "vic": "투표 정보 센터",
+        "privacyPolicy": "개인정보처리방침",
+        "privacyCentre": "개인정보 보호 센터",
+        "groups": "그룹",
+        "about": "정보",
+        "createAd": "광고 만들기",
+        "createPage": "페이지 만들기",
+        "developer": "개발자",
+        "career": "채용 정보",
+        "cookie": "쿠키",
+        "adChoice": "AdChoices",
+        "terms": "이용 약관",
+        "help": "고객 센터",
+        "contactUploadingNonUsers": "연락처 업로드 및 비사용자"
+    }
+}

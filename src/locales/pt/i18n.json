@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "Forneça informações completas.",
+        "alert2": "Você se conectou com sucesso.",
+        "connectAndShare": "O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.",
+        "inputPlaceholder": {
+            "emailAndPhone": "Email ou telefone",
+            "password": "Senha"
+        },
+        "signin": "Entrar",
+        "forgotPassword": "Esqueceu a senha?",
+        "createAccount": "Criar nova conta",
+        "createPage": "Criar uma Página",
+        "createPageText": " para uma celebridade, uma marca ou uma empresa."
+    },
+    "footer": {
+        "signUp": "Cadastre-se",
+        "signIn": "Entrar",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "Locais",
+        "games": "Jogos",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Loja da Meta",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "Campanhas de arrecadação de fundos",
+        "service": "Serviços",
+        "vic": "Central de Informações de Votação",
+        "privacyPolicy": "Política de Privacidade",
+        "privacyCentre": "Central de Privacidade",
+        "groups": "Grupos",
+        "about": "Sobre",
+        "createAd": "Criar anúncio",
+        "createPage": "Criar Página",
+        "developer": "Desenvolvedores",
+        "career": "Carreiras",
+        "cookie": "Cookies",
+        "adChoice": "Escolhas para anúncios",
+        "terms": "Termos",
+        "help": "Ajuda",
+        "contactUploadingNonUsers": "Carregamento de contatos e não usuários"
+    }
+}

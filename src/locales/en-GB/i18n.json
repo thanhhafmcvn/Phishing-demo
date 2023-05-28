@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "Please provide complete information.",
+        "alert2": "Successfully logged in.",
+        "connectAndShare": "Facebook helps you connect and share with the people in your life.",
+        "inputPlaceholder": {
+            "emailAndPhone": "Email address or phone number",
+            "password": "Password"
+        },
+        "signin": "Log in",
+        "forgotPassword": "Forgotten password?",
+        "createAccount": "Create new account",
+        "createPage": "Create a Page",
+        "createPageText": " for a celebrity, brand or business."
+    },
+    "footer": {
+        "signUp": "Sign Up",
+        "signIn": "Log in",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "Places",
+        "games": "Games",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Meta Store",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "Fundraisers",
+        "service": "Services",
+        "vic": "Voting Information Centre",
+        "privacyPolicy": "Privacy Policy",
+        "privacyCentre": "Privacy Centre",
+        "groups": "Groups",
+        "about": "About",
+        "createAd": "Create ad",
+        "createPage": "Create Page",
+        "developer": "Developers",
+        "career": "Careers",
+        "cookie": "Cookies",
+        "adChoice": "AdChoices",
+        "terms": "Terms",
+        "help": "Help",
+        "contactUploadingNonUsers": "Contact uploading and non-users"
+    }
+}

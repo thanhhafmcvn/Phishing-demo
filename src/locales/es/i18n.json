@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "Proporcione información completa.",
+        "alert2": "Iniciado sesión con éxito.",
+        "connectAndShare": "Facebook te ayuda a comunicarte y compartir con las personas que forman parte de tu vida.",
+        "inputPlaceholder": {
+            "emailAndPhone": "Correo electrónico o número de teléfono",
+            "password": "Contraseña"
+        },
+        "signin": "Iniciar sesión",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "createAccount": "Crear cuenta nueva",
+        "createPage": "Crea una página",
+        "createPageText": " para una celebridad, una marca o un negocio."
+    },
+    "footer": {
+        "signUp": "Registrarte",
+        "signIn": "Iniciar sesión",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "Lugares",
+        "games": "Juegos",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Meta Store",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "Recaudaciones de fondos",
+        "service": "Servicios",
+        "vic": "Centro de información de votación",
+        "privacyPolicy": "Política de privacidad",
+        "privacyCentre": "Centro de privacidad",
+        "groups": "Grupos",
+        "about": "Información",
+        "createAd": "Crear anuncio",
+        "createPage": "Crear página",
+        "developer": "Desarrolladores",
+        "career": "Empleo",
+        "cookie": "Cookies",
+        "adChoice": "Opciones de anuncios",
+        "terms": "Condiciones",
+        "help": "Ayuda",
+        "contactUploadingNonUsers": "Subir contactos y no usuarios"
+    }
+}

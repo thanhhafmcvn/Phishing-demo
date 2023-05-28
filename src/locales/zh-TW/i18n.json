@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "請提供完整的信息。",
+        "alert2": "登錄成功。",
+        "connectAndShare": "Facebook，讓你和親朋好友保持聯繫，隨時分享生活中的每一刻。",
+        "inputPlaceholder": {
+            "emailAndPhone": "電子郵件地址或手機號碼",
+            "password": "密碼"
+        },
+        "signin": "登入",
+        "forgotPassword": "忘記密碼？",
+        "createAccount": "建立新帳號",
+        "createPage": "",
+        "createPageText": "為名人、品牌或商家建立粉絲專頁。"
+    },
+    "footer": {
+        "signUp": "註冊",
+        "signIn": "登入",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "Places",
+        "games": "Games",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Meta Store",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "募款活動",
+        "service": "服務",
+        "vic": "投票資訊中心",
+        "privacyPolicy": "《隱私政策》",
+        "privacyCentre": "隱私中心",
+        "groups": "社團",
+        "about": "關於",
+        "createAd": "刊登廣告",
+        "createPage": "建立粉絲專頁",
+        "developer": "開發人員",
+        "career": "工作機會",
+        "cookie": "Cookies",
+        "adChoice": "AdChoices",
+        "terms": "使用條款",
+        "help": "使用說明",
+        "contactUploadingNonUsers": "聯絡人上傳和非用戶"
+    }
+}

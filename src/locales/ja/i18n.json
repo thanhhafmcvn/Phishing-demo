@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "完全な情報を提供してください。",
+        "alert2": "正常に接続されました。",
+        "connectAndShare": "Facebookを使うと、友達や同僚、同級生、仲間たちとつながりを深められます。ケータイ、スマートフォンからもアクセスできます。",
+        "inputPlaceholder": {
+            "emailAndPhone": "メールアドレスまたは電話番号",
+            "password": "パスワード"
+        },
+        "signin": "ログイン",
+        "forgotPassword": "パスワードを忘れた場合",
+        "createAccount": "新しいアカウントを作成",
+        "createPage": "",
+        "createPageText": "有名人、ブランドまたはビジネスのためにFacebookページを作成できます。"
+    },
+    "footer": {
+        "signUp": "アカウント登録",
+        "signIn": "ログイン",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "スポット",
+        "games": "ゲーム",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Metaストア",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "募金キャンペーン",
+        "service": "サービス",
+        "vic": "投票情報センター",
+        "privacyPolicy": "プライバシーポリシー",
+        "privacyCentre": "プライバシーセンター",
+        "groups": "グループ",
+        "about": "Facebookについて",
+        "createAd": "広告を作成",
+        "createPage": "ページを作成",
+        "developer": "開発者",
+        "career": "採用情報",
+        "cookie": "Cookies",
+        "adChoice": "AdChoices",
+        "terms": "規約",
+        "help": "ヘルプ",
+        "contactUploadingNonUsers": "連絡先のアップロードと非ユーザー"
+    }
+}

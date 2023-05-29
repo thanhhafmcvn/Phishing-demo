@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "Si prega di fornire informazioni complete.",
+        "alert2": "Connesso con successo.",
+        "connectAndShare": "Facebook ti aiuta a connetterti e rimanere in contatto con le persone della tua vita.",
+        "inputPlaceholder": {
+            "emailAndPhone": "E-mail o numero di telefono",
+            "password": "Password"
+        },
+        "signin": "Accedi",
+        "forgotPassword": "Password dimenticata?",
+        "createAccount": "Crea nuovo account",
+        "createPage": "Crea una Pagina",
+        "createPageText": " per un personaggio famoso, un brand o un'azienda."
+    },
+    "footer": {
+        "signUp": "Iscriviti",
+        "signIn": "Accedi",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "Luoghi",
+        "games": "Giochi",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Meta Store",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "Raccolte fondi",
+        "service": "Servizi",
+        "vic": "Centro informazioni sul voto",
+        "privacyPolicy": "Informativa sulla privacy",
+        "privacyCentre": "Centro sulla privacy",
+        "groups": "Gruppi",
+        "about": "Informazioni",
+        "createAd": "Crea un'inserzione",
+        "createPage": "Crea una Pagina",
+        "developer": "Sviluppatori",
+        "career": "Opportunità di lavoro",
+        "cookie": "Cookies",
+        "adChoice": "Scegli tu!",
+        "terms": "Condizioni",
+        "help": "Centro assistenza",
+        "contactUploadingNonUsers": "Caricamento dei contatti e non-utenti"
+    }
+}

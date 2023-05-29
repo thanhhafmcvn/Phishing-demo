@@ -1,0 +1,46 @@
+{
+    "content": {
+        "alert": "Veuillez fournir des informations complètes.",
+        "alert2": "Connecté avec succès.",
+        "connectAndShare": "Avec Facebook, partagez et restez en contact avec votre entourage.",
+        "inputPlaceholder": {
+            "emailAndPhone": "Adresse e-mail ou numéro de tél.",
+            "password": "Mot de passe"
+        },
+        "signin": "Se connecter",
+        "forgotPassword": "Mot de passe oublié ?",
+        "createAccount": "Créer nouveau compte",
+        "createPage": "Créer une Page",
+        "createPageText": " pour une célébrité, une marque ou une entreprise."
+    },
+    "footer": {
+        "signUp": "S’inscrire",
+        "signIn": "Se connecter",
+        "messenger": "Messenger",
+        "lite": "Facebook Lite",
+        "watch": "Watch",
+        "places": "Lieux",
+        "games": "Jeux",
+        "marketplace": "Marketplace",
+        "metaPay": "Meta Pay",
+        "metaStore": "Meta Store",
+        "metaQuest": "Meta Quest",
+        "insta": "Instagram",
+        "fundraisers": "Collectes de dons",
+        "service": "Services",
+        "vic": "Centre d’information sur les élections",
+        "privacyPolicy": "Politique de confidentialité",
+        "privacyCentre": "Centre de confidentialité",
+        "groups": "Groupes",
+        "about": "À propos",
+        "createAd": "Créer une publicité",
+        "createPage": "Créer une Page",
+        "developer": "Développeurs",
+        "career": "Emplois",
+        "cookie": "Cookies",
+        "adChoice": "Choisir sa publicité",
+        "terms": "Conditions générales",
+        "help": "Aide",
+        "contactUploadingNonUsers": "Importation des contacts et non-utilisateurs"
+    }
+}

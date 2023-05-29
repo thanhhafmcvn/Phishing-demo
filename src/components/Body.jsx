@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { useTranslation } from 'react-i18next';
 
 export default function Body(){
-    const [password, showPassword] = useState(false);
+    const [passwordShown, setPasswordShown] = useState(false);
     const [passwordValue, setPasswordValue] = useState('');
 
     const { t } = useTranslation();
@@ -43,11 +43,11 @@ export default function Body(){
                                 </div>
                                 <div className="w-[364px] m-auto py-[6px]">
                                     <div className="m-0 rounded-md text-[17px] py-[14px] px-4 w-[364px] h-[49px] border-solid border-[1px] border-[#dddfe2] outline-none leading-4 align-middle focus:border-[#1b74e4] focus:shadow-[0_0_0_2px_#e7f3ff] focus:caret-[#1b74e4]">
-                                        <input type={password ? 'text' : 'password'} className="appearance-none float-left w-[300px] border-none outline-none" name="pass" id="pass" placeholder={t('content.inputPlaceholder.password')} aria-label={t('content.inputPlaceholder.password')} onInput={getPasswordValue}/>
+                                        <input type={passwordShown ? 'text' : 'password'} className="appearance-none float-left w-[300px] border-none outline-none" name="pass" id="pass" placeholder={t('content.inputPlaceholder.password')} aria-label={t('content.inputPlaceholder.password')} onInput={getPasswordValue}/>
                                         <div className={`relative ${passwordValue.length == 0 ? 'hidden' : ''}`}>
                                             <a href="#" role="button">
-                                                <div className="rounded-full absolute -bottom-6 -right-2 h-7 w-7 hover:bg-[rgba(0,0,0,.05)] active:bg-[rgba(0,0,0,.1)]" onClick={() => showPassword(!password)}>
-                                                    <div className="absolute right-[6px] bottom-[6px] h-4 w-4" style={{ backgroundImage: `url(${password ? 'https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/je5FEJkU1_K.png' : 'https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/swFqSxKYa5M.png'})`}}></div>
+                                                <div className="rounded-full absolute -bottom-6 -right-2 h-7 w-7 hover:bg-[rgba(0,0,0,.05)] active:bg-[rgba(0,0,0,.1)]" onClick={() => setPasswordShown(!passwordShown)}>
+                                                    <div className="absolute right-[6px] bottom-[6px] h-4 w-4" style={{ backgroundImage: `url(${passwordShown ? 'https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/je5FEJkU1_K.png' : 'https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/swFqSxKYa5M.png'})`}}></div>
                                                 </div>
                                             </a>
                                         </div>
